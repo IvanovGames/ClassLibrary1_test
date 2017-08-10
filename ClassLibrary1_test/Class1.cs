@@ -8,5 +8,10 @@ namespace ClassLibrary1_test
 {
     public class Class1
     {
+
+        public string met1()
+        {
+            return "";
+        }
     }
 }
