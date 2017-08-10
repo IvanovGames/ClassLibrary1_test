@@ -13,5 +13,10 @@ namespace ClassLibrary1_test
         {
             return "";
         }
+
+        public string met2()
+        {
+            return "";
+        }
     }
 }
